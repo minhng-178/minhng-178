@@ -1,27 +1,12 @@
  ### Github Statistics 📈
-  <div align="center"> 
-  <div align="left">
-      <a href="">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true" />
-</picture>
-  </a>
-  </div>   
-    <div align="right">
- <a href="">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178)](https://github.com/anuraghazra/github-readme-stats)
-    
-</a>
-</div>
+
+ <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhng-178&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&theme=react&line_height=40&hide=css"/>
+    </a>
 </div>
 
 ### My Tech Stack
