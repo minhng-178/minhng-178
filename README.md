@@ -1,3 +1,5 @@
+ ### Github Statistics 📈
+  <div align="center"> 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=dark"
@@ -9,8 +11,10 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true" />
 </picture>
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ### My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
