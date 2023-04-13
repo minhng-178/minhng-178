@@ -1,5 +1,6 @@
  ### Github Statistics 📈
   <div align="center"> 
+  <div align="left">
       <a href="">
 <picture>
 <source 
@@ -12,13 +13,15 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true" />
 </picture>
-      </a>
-      
+  </a>
+  </div>   
+    <div align="right">
  <a href="">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178)](https://github.com/anuraghazra/github-readme-stats)
     
 </a>
+</div>
 </div>
 
 ### My Tech Stack
