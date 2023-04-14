@@ -16,7 +16,7 @@ public class MyBio {
 
    public static Map<String, String> getBio() {
       Map<String, String> bio = new HashMap<>();
-      bio.put("- ⚡ Quick bio:", "I am a full stack developeVietNamVietNam with a passion for learning and exploring new technologies.");
+      bio.put("- ⚡ Quick bio:", "I am a full stack developer from VietNam with a passion for learning and exploring new technologies.");
       bio.put("- 🔭 I’m currently working on:", "Developing web applications using Java, Spring Boot, and React.");
       bio.put("- 🌱 I’m currently learning:", "DevOps, and Microsoft SQL Server");
       bio.put("- 👯 I’m looking to collaborate on:", "Open-source projects related to web development or data science.");
