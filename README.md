@@ -2,32 +2,7 @@
 ![introduction](https://user-images.githubusercontent.com/115227781/231954533-3c4640d4-f8b5-4d5d-a1a8-7b7c8bf10e69.gif)
 
 ## :technologist: About me
-```
-import java.util.HashMap;
-import java.util.Map;
-
-public class MyBio {
-   public static void main(String[] args) {
-      Map<String, String> bio = getBio();
-      for (String k : bio.keySet()) {
-         System.out.println(k + " " + bio.get(k));
-      }
-   }
-
-   public static Map<String, String> getBio() {
-      Map<String, String> bio = new HashMap<>();
-      bio.put("- ⚡ Quick bio:", "I am a full stack developer from VietNam with a passion for learning and exploring new technologies.");
-      bio.put("- 🔭 I’m currently working on:", "Developing web applications using Java, Spring Boot, and React.");
-      bio.put("- 🌱 I’m currently learning:", "DevOps, and Microsoft SQL Server");
-      bio.put("- 👯 I’m looking to collaborate on:", "Open-source projects related to web development or data science.");
-      bio.put("- 🤔 I’m looking for help with:", "Improving my skills in front-end development and mobile app development.");
-      bio.put("- 💬 Ask me about:", "Java, Spring Boot, React, SQL databases, web development");
-      bio.put("- 📫 How to reach me:", "https://github.com/minhng-178");
-
-      return bio;
-   }
-}
-``` 
+`Processing...`
 ## 📈 Github Statistics 
 
  <div align="center"> 
