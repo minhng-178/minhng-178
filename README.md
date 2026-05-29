@@ -20,9 +20,16 @@ Dedicated **React Native Developer** with **2+ years** of hands-on experience bu
 
 ## 📊 GitHub Statistics (Highlights)
 
+<!--
+  "More reliable" settings:
+  - remove count_private (sometimes causes failures)
+  - set cache_seconds to reduce rate-limiting
+  - add a small cache-buster (v=1) to force refresh if GitHub cached a broken image
+-->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600&v=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320&cache_seconds=21600&v=1" />
 </p>
 
 <p align="center">
