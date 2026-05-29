@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me
-Dedicated **React Native Developer** with **2+ years** of hands-on experience building high-quality mobile applications for **Android & iOS**. Strong in **TypeScript**, **RESTful API integration**, and **release/deployment pipelines** (App Store, Google Play). I enjoy collaborating closely with delivery teams to ship robust, user-friendly products.
+Dedicated **React Native Developer** with **2+ years** of hands-on experience building high-quality mobile applications for **Android & iOS**. Strong in **TypeScript**, **RESTful API integration**, and building scalable architectures.
 
 - 🇬🇧 English: **TOEIC 830**
 - 💡 Focus: Performance, reliability, clean architecture, and product quality
@@ -16,37 +16,23 @@ Dedicated **React Native Developer** with **2+ years** of hands-on experience bu
 
 ## 📊 GitHub Statistics Dashboard
 
+> ✅ Replaced third-party Vercel stats/trophy cards with **GitHub Actions–generated SVGs** (stored in this repo) for better reliability.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minhng-178&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/minhng-178?style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/github/stars/minhng-178?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0e75b6" />
 </p>
 
-<!--
-  Reliability settings:
-  - keep stats lightweight (no private)
-  - add cache_seconds to reduce rate-limits
-  - add v=2 to refresh GitHub cached failures
--->
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600&v=2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320&cache_seconds=21600&v=2" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=minhng-178&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhng-178&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img height="180" alt="GitHub Metrics" src="./assets/metrics/github-metrics.svg" />
 </p>
 
 <details>
   <summary><b>More (activity graph)</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhng-178&theme=tokyo-night&hide_border=true" />
+    <img alt="Activity Graph" src="./assets/metrics/activity-graph.svg" />
   </p>
 </details>
 
