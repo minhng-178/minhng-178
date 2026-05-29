@@ -12,24 +12,34 @@
 
 ## 👋 About Me
 Dedicated **React Native Developer** with **2+ years** of hands-on experience building high-quality mobile applications for **Android & iOS**. Strong in **TypeScript**, **RESTful API integration**, and **release/deployment pipelines** (App Store, Google Play). I enjoy collaborating closely with delivery teams to ship robust, user-friendly products.
+
+- 🇬🇧 English: **TOEIC 830**
 - 💡 Focus: Performance, reliability, clean architecture, and product quality
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">     
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=tokyonight&line_height=40" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&theme=tokyonight&line_height=40" />
-  </a>
-</div>
+## 📊 GitHub Statistics (Highlights)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhng-178&color=green" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=minhng-178&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minhng-178&color=0e75b6&style=for-the-badge" />
+</p>
+
+<details>
+  <summary><b>More stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=minhng-178&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </p>
+</details>
 
 ---
 
@@ -67,6 +77,8 @@ Dedicated **React Native Developer** with **2+ years** of hands-on experience bu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
 
 ## 📫 Contact
 - Email: **anhminh1782002@gmail.com**
