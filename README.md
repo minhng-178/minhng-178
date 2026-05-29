@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anhminh1782002@gmail.com">anhminh1782002@gmail.com</a> • <a href="#">+84 938 459 644</a>
+  <a href="mailto:anhminh1782002@gmail.com">anhminh1782002@gmail.com</a>
 </p>
 
 ---
