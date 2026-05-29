@@ -4,10 +4,6 @@
   <b>Mobile Developer (React Native)</b> • Ho Chi Minh City, Vietnam
 </p>
 
-<p align="center">
-  <a href="mailto:anhminh1782002@gmail.com">anhminh1782002@gmail.com</a>
-</p>
-
 ---
 
 ## 👋 About Me
