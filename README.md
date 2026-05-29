@@ -18,33 +18,39 @@ Dedicated **React Native Developer** with **2+ years** of hands-on experience bu
 
 ---
 
-## 📊 GitHub Statistics (Highlights)
-
-<!--
-  "More reliable" settings:
-  - remove count_private (sometimes causes failures)
-  - set cache_seconds to reduce rate-limiting
-  - add a small cache-buster (v=1) to force refresh if GitHub cached a broken image
--->
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600&v=1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320&cache_seconds=21600&v=1" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=minhng-178&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Statistics Dashboard
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minhng-178&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/minhng-178?style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/minhng-178?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0e75b6" />
+</p>
+
+<!--
+  Reliability settings:
+  - keep stats lightweight (no private)
+  - add cache_seconds to reduce rate-limits
+  - add v=2 to refresh GitHub cached failures
+-->
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhng-178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhng-178&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320&cache_seconds=21600&v=2" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=minhng-178&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minhng-178&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <details>
-  <summary><b>More stats</b></summary>
+  <summary><b>More (activity graph)</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhng-178&theme=tokyonight&no-frame=true&row=1&column=6" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhng-178&theme=tokyo-night&hide_border=true" />
   </p>
 </details>
 
