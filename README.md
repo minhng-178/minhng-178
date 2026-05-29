@@ -12,8 +12,6 @@
 
 ## 👋 About Me
 Dedicated **React Native Developer** with **2+ years** of hands-on experience building high-quality mobile applications for **Android & iOS**. Strong in **TypeScript**, **RESTful API integration**, and **release/deployment pipelines** (App Store, Google Play). I enjoy collaborating closely with delivery teams to ship robust, user-friendly products.
-
-- 🇬🇧 English: **TOEIC 830**
 - 💡 Focus: Performance, reliability, clean architecture, and product quality
 
 ---
@@ -70,66 +68,6 @@ Dedicated **React Native Developer** with **2+ years** of hands-on experience bu
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
-
-## 💼 Work Experience
-
-### React Native Developer — HDWEBSOFT Software Development Company  
-**03/2025 – Present**
-
-**Responsum Health (Healthcare Consulting Ecosystem)**
-- Maintained & developed two core healthcare apps (**CKD** and **Glaucoma**) in a larger ecosystem; achieved **4.8★** on the App Store.
-- Led end-to-end deployment pipelines; published & maintained apps on **Google Play** and **Apple App Store**.
-- Delivered new features and fixed critical **iOS memory leak** issues; improved performance using **React Native**, **Redux**, **Redux-Saga**, and **REST APIs**.
-
-**Booking Studio App (Management & Booking Platform)**
-- Developed two mobile apps: **customer booking** and **internal staff management**.
-- Implemented real-time availability and resolved concurrent scheduling conflicts, increasing successful bookings by **~20%**.
-- Built scalable features using **React Native**, **Redux**, and **GraphQL**.
-
-**GPBMTORG (Financial CRM System)**
-- Stepped into a **Full Stack Developer** role for end-to-end CRM development (church revenue/expense management).
-- Customized **BMAD Lite** and integrated **Claude AI**, accelerating delivery by **~30%**.
-- Built secure full-stack solution with **React**, **Next.js**, **MongoDB**, and query-based data fetching.
-
-### React Native Developer — Wareflex.io  
-**02/2024 – 02/2025**
-
-**Warehouse Management System (WMS) — Mobile App**
-- Built a streamlined mobile app to support inbound operations and warehouse workflows.
-- Delivered improvements & client features, reducing manual data entry errors using **React Native**, **Zustand**, and **REST APIs**.
-
-**Warehouse Management System (WMS) — Web Platform**
-- Core **Web Developer** for WMS portal focused on supply chain tracking and warehouse lifecycle management.
-- Implemented enhancements, bug fixes, and integrations using **React**, **Next.js**, and REST-based services.
-
-### Front End Developer Intern — Assure Global Group  
-**09/2023 – 12/2023**
-- Trained on React architecture and built foundational apps (including a Todo app).
-- Onboarded onto WOS CRM to analyze complex codebases and learn enterprise frontend architecture.
-
----
-
-## 🚀 Projects
-
-### OCR for Vietnamese Handwriting (AI Project)
-**12/2025 – Present**
-- Fine-tuned **PaddleOCR** to recognize English & Vietnamese handwriting.
-- Built adaptive **OpenCV preprocessing** (denoise, contrast) to improve inference accuracy.
-- Designed a scalable backend with **DDD** and exposed the model via **FastAPI**.
-
-**Tech Stack:** Python, PaddleOCR/PaddlePaddle, OpenCV, FastAPI, Uvicorn, NumPy, Pandas, Scikit-learn, Pydantic
-
----
-
-## 🎓 Education
-- **Master’s Degree, Artificial Intelligence** — FPT School of Business & Technology (**09/2025 – Current**)
-- **Bachelor’s Degree, Computer Software Engineering** — FPT University (**09/2020 – 12/2024**) • **GPA: 3.2/4**
-
----
-
 ## 📫 Contact
 - Email: **anhminh1782002@gmail.com**
 - Location: **Ho Chi Minh City, Vietnam**
-
-> If you'd like, share your LinkedIn/GitHub/Portfolio links and I can convert this section into clickable badge buttons.
